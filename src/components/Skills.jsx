@@ -18,11 +18,11 @@ const Skills = () => {
         </li>
         <li>
           <img src={comet_three} alt="comet" />
-          <h4>Firebase</h4>
+          <h4>MongoDB</h4>
         </li>
         <li>
           <img src={comet_four} alt="comet/" />
-          <h4>Flutter</h4>
+          <h4>NodeJS</h4>
         </li>
       </ul>
       <p className="leading">

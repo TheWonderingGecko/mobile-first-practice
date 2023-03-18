@@ -1,7 +1,7 @@
 const NavBar = () => {
   return (
     <nav className="site-nav grid">
-      <h1>Cosmo Junkie</h1>
+      <h1> The Planetary Coder</h1>
       <ul>
         <li>
           <a href="#portfolio">Portfolio</a>
