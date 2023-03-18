@@ -5,8 +5,8 @@ const Welcome = () => {
     <section id="welcome" className="grid">
       <div className="welcome-text">
         <h2>
-          Space Enthusiast
-          <br />& JavaScript Developer
+          Future Astronaut
+          <br />& React Developer
         </h2>
         <p className="leading">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo
